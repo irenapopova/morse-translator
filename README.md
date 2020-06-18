@@ -36,6 +36,7 @@ After installing the package, in the project directory, run the below command on
 ```
 npm install gh-pages --save-dev
 npm run build
+cd build
 npm run deploy
 
 ```
