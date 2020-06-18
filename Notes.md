@@ -1,5 +1,9 @@
 
-+= adds to the existing text 'a' + '\_b' results in a_b
+`+=` adds to the existing text 
+
+`'a' + '\_b' `
+
+results in  `a_b`
 
 also could use es6 backticks:
 
